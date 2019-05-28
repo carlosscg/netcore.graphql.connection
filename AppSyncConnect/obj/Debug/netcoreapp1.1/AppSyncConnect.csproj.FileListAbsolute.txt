@@ -1,0 +1,10 @@
+E:\Users\carlos.cortez\source\repos\AppSyncConnect\AppSyncConnect\bin\Debug\netcoreapp1.1\AppSyncConnect.deps.json
+E:\Users\carlos.cortez\source\repos\AppSyncConnect\AppSyncConnect\bin\Debug\netcoreapp1.1\AppSyncConnect.runtimeconfig.json
+E:\Users\carlos.cortez\source\repos\AppSyncConnect\AppSyncConnect\bin\Debug\netcoreapp1.1\AppSyncConnect.runtimeconfig.dev.json
+E:\Users\carlos.cortez\source\repos\AppSyncConnect\AppSyncConnect\obj\Debug\netcoreapp1.1\AppSyncConnect.csproj.CoreCompileInputs.cache
+E:\Users\carlos.cortez\source\repos\AppSyncConnect\AppSyncConnect\obj\Debug\netcoreapp1.1\AppSyncConnect.AssemblyInfo.cs
+E:\Users\carlos.cortez\source\repos\AppSyncConnect\AppSyncConnect\bin\Debug\netcoreapp1.1\AppSyncConnect.dll
+E:\Users\carlos.cortez\source\repos\AppSyncConnect\AppSyncConnect\bin\Debug\netcoreapp1.1\AppSyncConnect.pdb
+E:\Users\carlos.cortez\source\repos\AppSyncConnect\AppSyncConnect\obj\Debug\netcoreapp1.1\AppSyncConnect.dll
+E:\Users\carlos.cortez\source\repos\AppSyncConnect\AppSyncConnect\obj\Debug\netcoreapp1.1\AppSyncConnect.pdb
+E:\Users\carlos.cortez\source\repos\AppSyncConnect\AppSyncConnect\obj\Debug\netcoreapp1.1\AppSyncConnect.csprojResolveAssemblyReference.cache
